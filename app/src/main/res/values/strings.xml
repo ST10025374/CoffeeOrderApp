@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp_OPSC7311</string>
+    <string name="order_now">Order Now</string>
+    <string name="you_are">You are?</string>
+    <string name="cellphone">Cellphone</string>
+    <string name="you_order">You Ordered</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
